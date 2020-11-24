@@ -3,5 +3,17 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W1KG1660
   title: ཞི་ཁྲོ་ལྷ་ཚོགས་མཐོང་བ་ཀུན་གྲོལ།
-  volume: ''
+  volume:
+    e074c42e171244a19e1ab77e82a79ea1:
+      image_group_id: I1KG1662
+      title: Volume 1 of zhi khro lha tshogs mthong ba kun grol
+      volume_number: 1
+      total_pages: 136
   author: ''
+ebook_metadata:
+  title: ཞི་ཁྲོ་ལྷ་ཚོགས་མཐོང་བ་ཀུན་གྲོལ།
+  author: ''
+  sku: P008011
+  cover: cover.jpg
+  layers:
+  - pagination
